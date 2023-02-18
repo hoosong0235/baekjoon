@@ -1,0 +1,1 @@
+for i in open(0):a,b,c=sorted(map(int,i.split()));print((a>0)*'wrriognhgt'[a*a+b*b==c*c::2])
